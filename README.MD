@@ -1,4 +1,4 @@
-![PyInvaders](https://github.com/djotaku/PyInvaders/blob/screenshots/PyInvaders.png)
+![PyInvaders](https://github.com/djotaku/PyInvaders/blob/master/screenshots/PyInvaders.png)
 
 # PyInvaders
 
