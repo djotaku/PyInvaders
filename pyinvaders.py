@@ -150,4 +150,4 @@ while quit == 0:
     display.update()
     time.delay(5)
 
-print "You Scored", score
+print ("You Scored", score)
